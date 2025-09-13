@@ -78,7 +78,7 @@ const AppSidebar = () => {
           <SidebarMenuItem>
             <SidebarMenuButton asChild>
               <Link href="/">
-                <Image src="/logo.svg" alt="logo" width={20} height={20} />
+                <Image src="/globe.svg" alt="logo" width={20} height={20} />
                 <span>Applista</span>
               </Link>
             </SidebarMenuButton>
